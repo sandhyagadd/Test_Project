@@ -1,0 +1,37 @@
+I worked in the company name aurify system as a software developer an i have an experience of 3.9 years.
+The task i have performed here is doing training and testing of the object detection models, Troubleshooting and solving application errors,
+did many coding task like unused video should get deleted from the client desktop, handling json file corruption, automatic desktop and DVR reboot, 
+displaying DVR login erros on the dashboard.Doing installation and validation checks of the application.
+
+Majorly i worked on 3 projects 1st was the store footfall where they have given me list of stores for accuracy testing i tested all stores and achieved
+more than 90% accuracy.
+and created web based dashboard for displaying the results.
+
+then 2nd project was the food ordering system where client was to know the count of orders taken by customers
+so i used yolo and human pose estimation model for this where i drawn region near counter and if person is present in region then it will pass person id
+and that frame to the pose model and in pose model it will check the customer and staff hand fist points if fist points are less than the thresold value then
+the order gets placed.
+
+then 3rd project was person on call and using call this i done using pose estimation where i drawn region near reception and if person in that region and hand 
+is near the face or head it will detect the person on call else if the hand point is near stomach then it will detect as a person using phone
+
+
+YOLO (You Only Look Once):
+YOLO is an object detection algorithm that can detect multiple objects within an image in real-time. It divides the image into a grid and performs object 
+detection on each grid cell simultaneously.
+YOLO is known for its speed and accuracy in object detection tasks. It's capable of detecting objects in real-time video or images efficiently.
+YOLO comes in different versions such as YOLOv1, YOLOv2 (YOLO9000), YOLOv3, and YOLOv4, each with improvements in accuracy and speed.
+
+
+OpenVINO (Open Visual Inference and Neural network Optimization):
+OpenVINO is not a specific model but rather a toolkit developed by Intel to optimize and deploy deep learning models on Intel hardware.
+It provides pre-trained models for various tasks like object detection, classification, segmentation, and more, allowing developers to efficiently deploy 
+these models in their applications.
+
+A JSON (JavaScript Object Notation) file is a lightweight data interchange format used to store and transmit data between a server and a web application or 
+between different systems. It's a text-based file format that is easy for both humans and machines to read and write.
+
+Jira is a widely used project management and issue-tracking tool developed by Atlassian. It allows teams to plan, track, and manage their work efficiently.
+
+Git and github is a distributed version control system used for deployment of the project.
+
